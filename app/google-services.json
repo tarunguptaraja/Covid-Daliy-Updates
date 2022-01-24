@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659577507395",
+    "project_id": "covid-daily-update",
+    "storage_bucket": "covid-daily-update.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659577507395:android:bada6bd3648b3f635c8ef6",
+        "android_client_info": {
+          "package_name": "com.tarunguptaraja.coviddailyupdates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659577507395-n85s667ri8k283pbfj1c32u3qscglp1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ihVuIJbFxwPnsEQBg3YVMlI0N2TuCQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659577507395-n85s667ri8k283pbfj1c32u3qscglp1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
